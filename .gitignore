@@ -1,6 +1,5 @@
 .DS_Store
 .idea
-/music-manage
-/music-client
+
 /music-server/target
 /music-server/.mvn/wrapper/*.jar
